@@ -12,17 +12,17 @@ Le nom tout en minuscule ne doit pas contenir d'espace. Il pourra contenir - et 
 - La partie publique du module doit être définie dans un fichier .tpl placé à la racine du dossier du module. Les fichiers TPL peuvent prendre n'importe quel nom, s'il n'y en a qu'un seul, une bonne pratique consiste à lui donner le même nom que le dossier et le fichier principal
 ### le fichier .php
 Ce fichier doit commencer par 
-'''php
-if (!defined('_PS_VERSION_'))
-exit;
-'''
+
+    if (!defined('_PS_VERSION_'))
+    exit;
+    
 De plus, il doit contenir une classe donc le nom sera le meme en CamelCase que le module et son dossier.
 cette classe doit étendre la classe Module
-'''php
-if (!defined('_PS_VERSION_'))
-exit;
-class MyModule extends Module
-{
-public function __construct()
-}
-'''
+
+
+    if (!defined('_PS_VERSION_'))
+    exit;
+    class MyModule extends Module
+    {
+    public function __construct()
+    }
