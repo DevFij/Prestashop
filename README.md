@@ -14,13 +14,11 @@ Le nom tout en minuscule ne doit pas contenir d'espace. Il pourra contenir - et 
 Ce fichier doit commencer par 
 if (!defined('_PS_VERSION_'))
 exit;
-De plus, il doit contenir une classe donc le non sera le meme en CamelCase que le module et son dossier.
-cette classe doit étendre la classe Module.
-<?php
+De plus, il doit contenir une classe donc le nom sera le meme en CamelCase que le module et son dossier.
+cette classe doit étendre la classe Module
 if (!defined('_PS_VERSION_'))
 exit;
 class MyModule extends Module
 {
 public function __construct()
 }
-?>
