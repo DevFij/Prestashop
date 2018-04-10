@@ -26,3 +26,5 @@ cette classe doit étendre la classe Module
     {
     public function __construct()
     }
+Le module devrait contenir une méthode install() et uninstall(). Enfin un logo.jpg et/ou logo.png.
+### Accrocher un module (hook)
