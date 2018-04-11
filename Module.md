@@ -4,4 +4,4 @@ Un module est contitué de plusieurs fichiers et dossiers contenu dans un dossie
 Voici une structure possible des fichiers et repertoires d'un module prestashop (PS).
 
 | Fichier | Description | Détails |
-| ------- | :---------: | ------ :|
+| ------- |: ---------: | -------:|
