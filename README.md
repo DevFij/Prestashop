@@ -1,3 +1,13 @@
+Un module est contitué de plusieurs fichiers et dossiers contenu dans un dossier du même nom que le module. Ce dossier est stocké dans le repertoire /modules à la racine de prestashop : /modules/nom_du_module
+## Structure de fichier d'un module prestashop
+Voici une structure possible des fichiers et repertoires d'un module prestashop (PS).
+| personnes      |
+| ------------- |
+| id_personne     |
+| nom_personne       |
+| prenom_personne |
+| tel_personne |
+| email_personne |
 # Prestashop
 ## Creation de module
 Les modules permettent  d'ajouter des fonctionnalités à PrestaShop sans devoir modifier ses fichiers internes, rendant possible le fait de mettre la solution à jour sans devoir recopier toutes ses modifications
