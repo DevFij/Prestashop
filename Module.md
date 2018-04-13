@@ -67,7 +67,7 @@ Le dossier contenant le fichier source principal est /modules/bienvenue
    Là on a deja un module prêt à l'emploi.
    ### Exercice 1
    1. Dans votre sous-domaine crée dans le domaine u2ktek.com, installer une boutique PS utilisant le thème par défaut.
-   2. Charger le module bienvenue.
+   2. Creer le module et le charger sur PS
    3. Changer la valeur du champ Tab en administration, analytics_stats, market_place.
    4. Supprimer le module chargé precédement, recharger les modules.
    5. Bonus: Pouvez vous consulter les logs retraçant les diverses actions sur le serveur?
