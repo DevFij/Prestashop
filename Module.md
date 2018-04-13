@@ -110,5 +110,5 @@ Le dossier contenant le fichier source principal est /modules/bienvenue
 
       return true;
      }
-
-      
+### Liens utiles
+http://doc.prestashop.com
