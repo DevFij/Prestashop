@@ -111,7 +111,7 @@ Le dossier contenant le fichier source principal est /modules/bienvenue
       return true;
      }
 ### Liens utiles
-http://doc.prestashop.com
-http://www.fatcow.com/free-icons (very close to the FamFamFam one) or 
-http://www.iconarchive.com/show/danish-royalty-free-icons-by-jonas-rask.html (Danish Royalty Free)
+- http://doc.prestashop.com
+- http://www.fatcow.com/free-icons (very close to the FamFamFam one) or 
+- http://www.iconarchive.com/show/danish-royalty-free-icons-by-jonas-rask.html (Danish Royalty Free)
 
